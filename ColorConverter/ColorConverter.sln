@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorConverter", "ColorConverter\ColorConverter.csproj", "{2C9371FA-C316-46C0-94DC-70A5A6FF5627}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C9371FA-C316-46C0-94DC-70A5A6FF5627}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C9371FA-C316-46C0-94DC-70A5A6FF5627}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C9371FA-C316-46C0-94DC-70A5A6FF5627}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C9371FA-C316-46C0-94DC-70A5A6FF5627}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6CA2C38-37EF-409F-BFF9-C2F0AE9B3923}
+	EndGlobalSection
+EndGlobal
